@@ -26,7 +26,7 @@ export default function PainelTab() {
         setBotInfo({
           status: "Online",
           nome: "ETS2BOT",
-          id: "123456789012345678",
+          id: "1358484284503097595",
           servidores: 42,
           usuarios: 1250,
         })
@@ -54,7 +54,7 @@ export default function PainelTab() {
         </div>
         <a
           className="add-btn"
-          href="https://discord.com/oauth2/authorize?client_id=SEU_CLIENT_ID&scope=bot&permissions=8"
+          href="https://discord.com/oauth2/authorize?client_id=1358484284503097595&permissions=8&integration_type=0&scope=bot"
           target="_blank"
           rel="noreferrer"
         >
