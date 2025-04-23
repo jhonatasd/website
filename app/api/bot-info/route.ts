@@ -8,7 +8,7 @@ export async function GET() {
   const botInfo = {
     status: "Online",
     nome: "ETS2BOT",
-    id: "123456789012345678",
+    id: "1358484284503097595",
     servidores: 42,
     usuarios: 1250,
   }
